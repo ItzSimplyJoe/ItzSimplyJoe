@@ -8,8 +8,8 @@ I'm an A-Level student, currently studying Maths French and Computer Science, ne
 
 * 🌍  I'm based in England
 * ✉️  You can contact me at [joebostock30@gmail.com](mailto:joebostock30@gmail.com)
-* 🚀  I'm currently working on [A Virtual Assistant](http://github.com/ItzSimplyJoe/Virtual-Assistant)
-* 🧠  I'm learning HTML & CSS
+* 🚀  I'm currently working on [A Shop Website](https://github.com/ItzSimplyJoe/Shopwebsite)
+* 🧠  I'm learning Flask
 * 🤝  I'm open to collaborating on Anything interesting
 
 ### Skills
