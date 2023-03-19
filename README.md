@@ -7,6 +7,7 @@ A level Student
 I'm an A-Level student, currently studying Maths French and Computer Science, next year I want to do a degree level apprenticeship in software engineering or cyber security, so I'm building a portfolio of little projects I've made
 
 * 🌍  I'm based in England
+* 🖥️  See my portfolio at [My Portfolio Page](http://itzsimplyjoe.me)
 * ✉️  You can contact me at [joebostock30@gmail.com](mailto:joebostock30@gmail.com)
 * 🚀  I'm currently working on [A Shop Website](https://github.com/ItzSimplyJoe/Shopwebsite)
 * 🧠  I'm learning Flask
