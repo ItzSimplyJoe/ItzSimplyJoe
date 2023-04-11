@@ -13,7 +13,7 @@ I'm an A-Level student, currently studying Maths French and Computer Science, ne
 * 🧠  I'm learning Flask
 * 🤝  I'm open to collaborating on Anything interesting
 
-### Skills
+### Technologies I've Worked With
 
 
 <p align="left">
