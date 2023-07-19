@@ -9,7 +9,7 @@ I'm an A-Level student, currently studying Maths French and Computer Science, ne
 * 🌍  I'm based in England
 * 🖥️  See my portfolio at [My Portfolio Page](http://itzsimplyjoe.me)
 * ✉️  You can contact me at [joebostock30@gmail.com](mailto:joebostock30@gmail.com)
-* 🚀  I'm currently working on [A Shop Website](https://github.com/ItzSimplyJoe/Shopwebsite)
+* 🚀  I'm currently working on [A Virtual Assistant](https://github.com/ItzSimplyJoe/Oi-Badger)
 * 🧠  I'm learning Flask
 * 🤝  I'm open to collaborating on Anything interesting
 
