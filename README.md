@@ -1,10 +1,11 @@
 Hi 👋 My name is Joe Bostock
 ============================
 
-A level Student
+Junior Software Engineer
+1st Year Degree Apprentice
 ---------------
 
-I'm an A-Level student, currently studying Maths French and Computer Science, next year I want to do a degree level apprenticeship in software engineering or cyber security, so I'm building a portfolio of little projects I've made
+I am a junior software engineer at Salus Cyber, I am training to be a software engineer. I'm also currently in my first year as a degree apprentice where I am taking a degree in Digital Solutions and Software Development. I plan on taking a CTM, as well as a few other certifications such as a qualification in Azure.
 
 * 🌍  I'm based in England
 * 🖥️  See my portfolio at [My Portfolio Page](http://itzsimplyjoe.me)
