@@ -11,7 +11,7 @@ I am a junior software engineer at Salus Cyber, I am training to be a software e
 * 🖥️  See my portfolio at [My Portfolio Page](http://itzsimplyjoe.me)
 * ✉️  You can contact me at [joebostock30@gmail.com](mailto:joebostock30@gmail.com)
 * 🚀  I'm currently working on [A Virtual Assistant](https://github.com/ItzSimplyJoe/Voice-Controlled-Virtual-Assistant)
-* 🧠  I'm learning C++
+* 🧠  I'm learning C#
 * 🤝  I'm open to collaborating on Anything interesting
 
 ### Technologies I've Worked With
