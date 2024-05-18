@@ -8,9 +8,9 @@ Junior Software Engineer
 I am a junior software engineer at Salus Cyber, I am training to be a software engineer. I'm also currently in my first year as a degree apprentice where I am taking a degree in Digital Solutions and Software Development. I plan on taking a CTM, as well as a few other certifications such as a qualification in Azure.
 
 * 🌍  I'm based in England
-* 🖥️  See my portfolio at [My Portfolio Page](http://itzsimplyjoe.me)
+* 🖥️  See my portfolio at [My Portfolio Page](http://www.joebostock.com)
 * ✉️  You can contact me at [joebostock30@gmail.com](mailto:joebostock30@gmail.com)
-* 🚀  I'm currently working on [A Virtual Assistant](https://github.com/ItzSimplyJoe/Voice-Controlled-Virtual-Assistant)
+* 🚀  I'm currently working on a variety of projects.
 * 🧠  I'm learning C#
 * 🤝  I'm open to collaborating on Anything interesting
 
