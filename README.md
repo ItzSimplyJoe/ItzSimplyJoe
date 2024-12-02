@@ -2,7 +2,7 @@ Hi 👋 My name is Joe Bostock
 ============================
 
 Junior Software Engineer
-1st Year Degree Apprentice
+2nd Year Degree Apprentice
 ---------------
 
 I am a junior software engineer at Salus Cyber, I am training to be a software engineer. I'm also currently in my first year as a degree apprentice where I am taking a degree in Digital Solutions and Software Development.
