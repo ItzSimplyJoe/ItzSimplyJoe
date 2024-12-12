@@ -5,7 +5,7 @@ Junior Software Engineer
 2nd Year Degree Apprentice
 ---------------
 
-I am a junior software engineer at Salus Cyber, I am training to be a software engineer. I'm also currently in my first year as a degree apprentice where I am taking a degree in Digital Solutions and Software Development.
+I am an software engineer at Salus, I am training to be a software engineer. I'm also currently in my second year as a degree apprentice where I am taking a degree in Digital Solutions and Software Development.
 
 * 🌍  I'm based in England
 * 🖥️  See my portfolio at [My Portfolio Page](http://www.joebostock.com)
