@@ -1,11 +1,10 @@
 Hi 👋 My name is Joe Bostock
 ============================
 
-Junior Software Engineer
-3rd Year Degree Apprentice
+Software Engineer
 ---------------
 
-I am an software engineer at Salus, I am training to be a software engineer. I'm also currently in my third and final year as a degree apprentice where I am taking a degree in Digital Solutions and Software Development.
+I am an software engineer at Salus,  
 
 * 🌍  I'm based in England
 * 🖥️  See my portfolio at [My Portfolio Page](http://www.joebostock.com)
